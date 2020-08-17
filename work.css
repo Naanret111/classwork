@@ -1,0 +1,106 @@
+#one{
+    background-color: royalblue;
+    width: 100vw;
+    height: 5vh;
+}
+
+#two{
+    background-color: grey;
+    width: 100vw;
+    height: 5vh;
+}
+
+@media only screen and (max-width: 600px){
+    #one{
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 600px){
+    .first{
+        flex-direction: column;
+    }
+}
+
+.one{
+    border: orangered 2px dashed;
+}
+
+.first{
+    display: flex;
+    
+}
+
+#three{
+    background-color: indigo;
+    width: 20vw;
+    height: 30vh;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#four{
+    background-color: lightcoral;
+    width: 20vw;
+    height: 30vh;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#five{
+    background-color: plum;
+    width: 20vw;
+    height: 30vh;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+@media only screen and (max-width: 600px){
+    .second{
+        flex-direction: column;
+    }
+}
+
+.second{
+    display: flex;
+}
+
+#six{
+    background-color: grey;
+    width: 20vw;
+    height: 30vh;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#seven{
+    background-color: orange;
+    width: 20vw;
+    height: 30vh;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#eight{
+    background-color: lightskyblue;
+    width: 20vw;
+    height: 30vh;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+#nine{
+    background-color: orangered;
+    width: 100vw;
+    height: 5vh;
+    margin-top: 3vh;
+}

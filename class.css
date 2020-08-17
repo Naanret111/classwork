@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+}
+
+#one{
+    background-color: grey;
+    width: 100vw;
+    height: 10vh;
+    border-bottom: 1px solid orangered;
+}
+
+#museum{
+    color: white;
+    font-size: 30px;
+    margin-left: 65px;
+    padding-top: 20px;
+}
+
+#date{
+    text-align: center;
+    margin-top: -50px;
+    padding-bottom: 15px;
+}
+
+#button-one{
+    background-color: orangered;
+    color: white;
+    border: none;
+    box-shadow: 2px 2px 2px 2px bisque;
+}
+
+#two{
+    background-color: white;
+    width: 100vw;
+    height: 7vh;
+    
+}
+
+#login{
+    color: gray;
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+
+#line{
+    border-bottom: 4px solid orange;
+    width: 30px;
+    margin-left: 60px;
+        
+    }
+
+.three{
+    background-color: whitesmoke;
+    height: 120vh;
+}
+
+#three{
+    width: 40vw;
+    height: 110vh;
+    background-color: white;
+    margin-left: 30%;
+    position: relative;
+    top: 20px;
+    text-align: center;
+    
+}
+
+#log{
+    font-weight: bold;
+    color: black;
+    font-size: 35px;
+    padding-top: 40px;
+}
+
+#account{
+    color: gray;
+}
+
+#account a{
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#button-two{
+    background-color: red;
+    color: white;
+    width: 30vw;
+    height: 4vw;
+    margin-top: 20px;
+    border: none;
+    box-shadow: 3px 3px 3px 3px rgb(235, 70, 70);
+
+}
+
+
+#button-three{
+    background-color: rgb(48, 62, 102);
+    color: white;
+    width: 30vw;
+    height: 4vw;
+    margin-top: 20px;
+    border: none;
+    box-shadow: 3px 3px 3px 3px rgb(100, 130, 228);
+}
+
+
+
+#button-four{
+    background-color: rgb(64, 187, 224);
+    color: white;
+    width: 30vw;
+    height: 4vw;
+    margin-top: 20px;
+    border: none;
+    box-shadow: 3px 3px 3px 3px rgb(21, 132, 139);
+}
+
+#or{
+    margin-top: 20px;
+}
+
+#rule{
+    width: 190px;
+    position: relative;
+    top: 20px;
+    left: 70px;
+}
+
+#rule-two{
+    width: 190px;
+    position: relative;
+    right: -280px;
+}
+
+#check{
+    margin-top: 25px;
+    margin-left: -300px;
+}
+
+
+#button-five{
+    background-color: white;
+    color: grey;
+    width: 30vw;
+    height: 4vw;
+    margin-top: 20px;
+    border: 1px solid grey; 
+}
+
+
+#button-five img{
+    width: 30px;
+    position: relative;
+    top: 15px;
+    left: -170px;
+}
+
+#email{
+    position: relative;
+    left: -100px;
+    top: -10px;
+}
+
+
+#button-six{
+    background-color: white;
+    color: grey;
+    width: 30vw;
+    height: 4vw;
+    margin-top: 20px;
+    border: 1px solid grey;
+}
+
+#button-six img{
+    width: 30px;
+    position: relative;
+    top: 5px;
+    left: -170px;
+}
+
+#password{
+    position: relative;
+    left: -120px;
+    top: -20px;
+}
+
+
+#forgot{
+    margin-left: 280px;
+    margin-top: -15px;
+    color: gray;
+}
+
+#button-seven{
+    background-color: orange;
+    color: white;
+    width: 30vw;
+    height: 4vw;
+    margin-top: 20px;
+    border: none;
+}
+
+#setting{
+    position: relative;
+    top: -270px;
+    right: -655px;
+}
